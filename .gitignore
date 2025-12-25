@@ -1,0 +1,24 @@
+# Python garbage
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment settings (JANGAN PERNAH UPLOAD)
+.env
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
